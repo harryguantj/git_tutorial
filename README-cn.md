@@ -6,6 +6,8 @@
 
 可能是东半球全网最简单易上手的工具
 
+可能是全网最简单易上手的工具
+代码转换从未如此简单！
 [English version of README](README.md)
 
 GoGoCode 是一个基于 AST 的 JavaScript/Typescript/HTML 代码转换工具，但相较于同类，它提供了更符合直觉的 API

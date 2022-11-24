@@ -4,7 +4,7 @@
 
 ## GoGoCode 是什么？
 
-可能是全网最简单易上手的工具
+可能是东半球全网最简单易上手的工具
 
 [English version of README](README.md)
 
